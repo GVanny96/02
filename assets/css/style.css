@@ -1,0 +1,87 @@
+.conteiner{
+    display: flex;
+    width:  100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+.caixa1{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    display: flex;
+    margin: 10px
+}
+.caixa2{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    margin: 10px
+}
+.caixa3{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    display: flex;
+    align-items: end;
+    margin: 10px
+}
+.caixa4{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    margin: 10px
+}
+.caixa5{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px
+}
+.caixa6{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    margin: 10px
+}
+.caixa7{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    display: flex;
+    justify-content: end;
+    margin: 10px
+}
+.caixa8{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    margin: 10px
+}
+.caixa9{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    margin: 10px
+}
+.caixap{
+    width: 80px;
+    height: 80px;
+    background-color: black;
+}
